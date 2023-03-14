@@ -1,3 +1,7 @@
+
+
+
+
 /*******************************/
 /********* General CSS *********/
 /*******************************/
@@ -262,6 +266,7 @@ a:focus {
     position: relative;
     text-align: right;
     padding-right: 75px;
+    
 }
 
 .hero .hero-image img {
